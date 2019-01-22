@@ -1,0 +1,15 @@
+Window "Flow Layout Test" (600, 300) Layout Flow:
+  Label "Main Panel";
+  Panel Layout Flow:
+    Panel Layout Flow:
+      Panel Layout Flow:
+        Panel Layout Flow:
+          Button "Test button 1";
+        End;
+        Button "Test button 2";
+      End;
+      Button "Test button 3";
+    End;
+    Button "Test button 4";
+  End;
+End.
